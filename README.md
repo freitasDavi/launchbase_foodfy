@@ -35,7 +35,7 @@ O Projeto foi desenvolvidos utlizando as seguintes tecnologias
 ```
     # Clonar o repositório
 
-    $ git clone https://github.com/tekuninn/launchbase_foodfy
+    $ git clone https://github.com/freitasDavi/launchbase_foodfy
 
     # Instalar o node
 
